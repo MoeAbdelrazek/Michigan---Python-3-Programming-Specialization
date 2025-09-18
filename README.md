@@ -12,26 +12,26 @@ More projects will be added as the specialization progresses.
 
 Project 1:
 
-# 📁 File Handling Assignment – University of Michigan Python 3 Specialization
+#  File Handling Assignment – University of Michigan Python 3 Specialization
 
 This project was completed as part of Assignment 1 in the "Functions, Files, and Dictionaries" course. It demonstrates how to read and analyze text files using Python.
 
-## 🧠 Tasks Completed
+##  Tasks Completed
 - Count characters, words, and lines in `.txt` files
 - Extract specific words based on position or character
 - Validate results using `assert` statements
 
-## 📂 Files Used
+##  Files Used
 - `assets/travel\_plans.txt`
 - `assets/emotion\_words.txt`
 - `assets/school\_prompt.txt`
 
-## 🖼️ Screenshots
+##  Screenshots
 
-### 📋 Assignment Instructions
+###  Assignment Instructions
 ![Assignment Instructions](screenshots/assignment_instructions.png)
 
-### ✅ Passed Test Case
+ Passed Test Case
 ![Assert Passed](screenshots/assert_passed.png)
 
 ## 🎓 Certification Context
@@ -41,3 +41,4 @@ This assignment is part of the University of Michigan’s Python 3 Programming S
 - Add error handling for missing files
 - Build a CLI tool to analyze any `.txt` file
 - Visualize word frequency with `matplotlib`
+
