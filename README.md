@@ -10,7 +10,7 @@ Throughout the specialization, I’ll be completing a series of hands-on assignm
 Each project will be archived in its own folder with code, documentation, and visual proof of completion.
 More projects will be added as the specialization progresses.
 
-Project 1:
+**Project 1:**
 
 #  File Handling Assignment – University of Michigan Python 3 Specialization
 
@@ -29,3 +29,4 @@ This project was completed as part of Assignment 1 in the "Functions, Files, and
 ##  Screenshots
 
 ###  Assignment Instructions
+
