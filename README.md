@@ -29,8 +29,3 @@ This project was completed as part of Assignment 1 in the "Functions, Files, and
 ##  Screenshots
 
 ###  Assignment Instructions
-![Assignment Instructions](screenshots/assignment_instructions.png)
-
-
-## 🚀 Next Steps
-- Add error handling for missing files
