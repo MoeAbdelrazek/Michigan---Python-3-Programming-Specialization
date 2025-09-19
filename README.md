@@ -31,14 +31,6 @@ This project was completed as part of Assignment 1 in the "Functions, Files, and
 ###  Assignment Instructions
 ![Assignment Instructions](screenshots/assignment_instructions.png)
 
- Passed Test Case
-![Assert Passed](screenshots/assert_passed.png)
-
-## 🎓 Certification Context
-This assignment is part of the University of Michigan’s Python 3 Programming Specialization on Coursera.
 
 ## 🚀 Next Steps
 - Add error handling for missing files
-- Build a CLI tool to analyze any `.txt` file
-- Visualize word frequency with `matplotlib`
-
